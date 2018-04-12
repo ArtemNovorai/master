@@ -1,3 +1,23 @@
 .container {
   margin-top: 50px;
 }
+
+.row {
+  background-color: black
+}
+
+.yellow {
+  color: yellow;
+  margin-left: 130px;
+}
+
+.with {
+  color: #dedea8;
+}
+
+.emblem {
+  margin-top: 50px;
+}
+button {
+ margin-left: 300px;
+}
