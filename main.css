@@ -2,11 +2,12 @@
   margin-top: 50px;
 }
 
-
+.row {
+  background-color: black
+}
 
 .yellow {
   color: yellow;
-  margin-left: 130px;
 }
 
 .with {
@@ -16,6 +17,6 @@
 .emblem {
   margin-top: 50px;
 }
-button {
- margin-left: 300px;
+#cnopka {
+  margin-top: 40px;
 }
