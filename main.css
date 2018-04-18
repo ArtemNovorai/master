@@ -6,7 +6,10 @@
   background-color: black
 }
 
-
+.yellow {
+  color: yellow;
+  margin-left: 130px;
+}
 
 .with {
   color: #dedea8;
