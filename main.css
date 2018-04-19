@@ -3,7 +3,7 @@
 }
 
 .row {
-  background-color: black
+  background-color: black;
 }
 
 .yellow {
@@ -21,3 +21,41 @@
   margin-top: 40px;
 }
 
+.partners {
+  margin-top: 60px;
+  background-color: #ffffff;
+}
+
+.block3 {
+  color: yellow;
+  margin-top: 30px;
+}
+
+.reclama {
+  padding-right: 30px;
+ 
+}
+
+.baner {
+  height: 120px;
+}
+
+.info {
+  margin-top: 30px;
+  color: #dedea8;
+}
+
+.colorw{
+  margin-top: 20px; ;
+}
+
+.colorb5 {
+  color: black;
+  background-color: #ffffff ;
+  border-radius: 15px;
+}
+
+.fon {
+  background-color: #ffffff;
+  border-radius: 15px;
+}
