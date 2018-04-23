@@ -3,7 +3,7 @@
 }
 
 .row {
-  background-color: black;
+  background-color: #101010;
 }
 
 .yellow {
@@ -52,7 +52,11 @@
 .colorb5 {
  color: #dedea8; 
 }
+
 .fon {
  color: #dedea8;
- 
+ }
+
+.but {
+  margin-top: 40px;
 }
